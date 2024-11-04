@@ -1,0 +1,6 @@
+../Core/Inc/arm_math.h:5745:30:arm_sqrt_f32	16	static
+../Core/Src/Calculations.c:16:6:HAL_SPI_RxHalfCpltCallback	16	static
+../Core/Src/Calculations.c:33:6:HAL_SPI_RxCpltCallback	16	static
+../Core/Src/Calculations.c:48:6:DataProcessing	24	static
+../Core/Src/Calculations.c:98:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/Calculations.c:117:6:FFtFunctions	8	static
