@@ -7,14 +7,14 @@
 #include "stdio.h"
 #include "stdint.h"
 #include "stm32h7xx_hal.h"
-
+#include "main.h"
 
 #ifndef INC_IOCONTROLLER_H_
 #define INC_IOCONTROLLER_H_
 
 
 const uint8_t IODIRA_REG_A = 0b00000000; //Configure  input/output for port A
-const uint8_t IODIRA_REG_B = 0b00010000; //Configure  input/output for port A
+const uint8_t IODIRA_REG_B = 0b00010000; //Configure  input/output for port B
 const uint8_t GPIO_REG_A   = 0b00001001; //Configure GPIO pin ports A
 const uint8_t GPIO_REG_B   = 0b00011001; //Configure GPIO pin ports B
 const uint8_t OLATA_REG_A  = 0b00001010; //Configure Logic high/low for ports A
@@ -65,7 +65,16 @@ const int8_t  CMD_GPB6_LOW = ~0b01000000;
 const int8_t  CMD_GPB7_LOW = (int8_t)~0b10000000;
 
 
+//SET OPCODE FOR READ and WRITE
+
+const int8_t OPCODE_WRITE = 0b01000000;
+const int8_t OPCODE_READ  = 0b01000001;
+
+
+
 uint8_t Transfer_CMD ;
+uint8_t TX_Buffer[3];
+
 
 typedef struct{
 
@@ -89,8 +98,11 @@ typedef struct{
 	uint8_t GPB7_LOGIC;
 
 
-}typdef_GP_logic;
+}typdef_GPV_logic;
 
+void GPIO_logic(typdef_GPV_logic *GP_logic);
+void MCP23S17_WriteRegister(SPI_HandleTypeDef *hspi, uint8_t reg, uint8_t value);
+uint8_t MCP23S17_ReadRegister(SPI_HandleTypeDef *hspi, uint8_t reg);
 
 
 

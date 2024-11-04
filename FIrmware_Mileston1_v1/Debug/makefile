@@ -60,8 +60,8 @@ all: main-build
 main-build: FIrmware_Mileston1_v1.elf secondary-outputs
 
 # Tool invocations
-FIrmware_Mileston1_v1.elf FIrmware_Mileston1_v1.map: $(OBJS) $(USER_OBJS) D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\STM32H743ZITX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "FIrmware_Mileston1_v1.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\STM32H743ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="FIrmware_Mileston1_v1.map" -Wl,--gc-sections -static -L"D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
+FIrmware_Mileston1_v1.elf FIrmware_Mileston1_v1.map: $(OBJS) $(USER_OBJS) D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\STM32H743ZITX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "FIrmware_Mileston1_v1.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\STM32H743ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="FIrmware_Mileston1_v1.map" -Wl,--gc-sections -static -L"D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

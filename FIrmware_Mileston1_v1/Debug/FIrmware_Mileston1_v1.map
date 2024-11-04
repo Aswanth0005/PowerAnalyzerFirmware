@@ -1,21 +1,21 @@
 Archive member included to satisfy reference by file (symbol)
 
-D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
                               ./Core/Src/Calculations.o (arm_rms_f32)
-D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
                               ./Core/Src/Calculations.o (arm_max_f32)
-D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
                               ./Core/Src/Calculations.o (arm_rfft_fast_f32)
-D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
-                              D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o) (arm_cfft_f32)
-D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+                              D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o) (arm_cfft_f32)
+D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
                               ./Core/Src/main.o (arm_conv_f32)
-D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
                               ./Core/Src/Calculations.o (arm_abs_f32)
-D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
-                              D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o) (arm_bitreversal_32)
-D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
-                              D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o) (arm_radix8_butterfly_f32)
+D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
+                              D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o) (arm_bitreversal_32)
+D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+                              D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o) (arm_radix8_butterfly_f32)
 C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-exit.o)
                               C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (exit)
 C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfprintf_float.o)
@@ -735,6 +735,7 @@ Discarded input sections
  .group         0x00000000        0xc ./Core/Src/iocontroller.o
  .group         0x00000000        0xc ./Core/Src/iocontroller.o
  .group         0x00000000        0xc ./Core/Src/iocontroller.o
+ .group         0x00000000        0xc ./Core/Src/iocontroller.o
  .text          0x00000000        0x0 ./Core/Src/iocontroller.o
  .data          0x00000000        0x0 ./Core/Src/iocontroller.o
  .bss           0x00000000        0x0 ./Core/Src/iocontroller.o
@@ -818,13 +819,25 @@ Discarded input sections
                 0x00000000        0x1 ./Core/Src/iocontroller.o
  .rodata.CMD_GPB7_LOW
                 0x00000000        0x1 ./Core/Src/iocontroller.o
+ .rodata.OPCODE_WRITE
+                0x00000000        0x1 ./Core/Src/iocontroller.o
+ .rodata.OPCODE_READ
+                0x00000000        0x1 ./Core/Src/iocontroller.o
  .bss.Transfer_CMD
                 0x00000000        0x1 ./Core/Src/iocontroller.o
- .debug_info    0x00000000      0x378 ./Core/Src/iocontroller.o
- .debug_abbrev  0x00000000       0x52 ./Core/Src/iocontroller.o
+ .bss.TX_Buffer
+                0x00000000        0x3 ./Core/Src/iocontroller.o
+ .text.GPIO_logic
+                0x00000000      0x1c4 ./Core/Src/iocontroller.o
+ .text.MCP23S17_WriteRegister
+                0x00000000       0x50 ./Core/Src/iocontroller.o
+ .debug_info    0x00000000      0xd2a ./Core/Src/iocontroller.o
+ .debug_abbrev  0x00000000      0x1ce ./Core/Src/iocontroller.o
  .debug_aranges
-                0x00000000       0x18 ./Core/Src/iocontroller.o
- .debug_macro   0x00000000      0x33d ./Core/Src/iocontroller.o
+                0x00000000       0x28 ./Core/Src/iocontroller.o
+ .debug_rnglists
+                0x00000000       0x1a ./Core/Src/iocontroller.o
+ .debug_macro   0x00000000      0x346 ./Core/Src/iocontroller.o
  .debug_macro   0x00000000      0xacc ./Core/Src/iocontroller.o
  .debug_macro   0x00000000       0x22 ./Core/Src/iocontroller.o
  .debug_macro   0x00000000       0x5b ./Core/Src/iocontroller.o
@@ -899,9 +912,11 @@ Discarded input sections
  .debug_macro   0x00000000      0x293 ./Core/Src/iocontroller.o
  .debug_macro   0x00000000       0x90 ./Core/Src/iocontroller.o
  .debug_macro   0x00000000      0x5a0 ./Core/Src/iocontroller.o
- .debug_line    0x00000000      0x99a ./Core/Src/iocontroller.o
- .debug_str     0x00000000   0x166220 ./Core/Src/iocontroller.o
+ .debug_macro   0x00000000       0x76 ./Core/Src/iocontroller.o
+ .debug_line    0x00000000      0xad5 ./Core/Src/iocontroller.o
+ .debug_str     0x00000000   0x166bca ./Core/Src/iocontroller.o
  .comment       0x00000000       0x44 ./Core/Src/iocontroller.o
+ .debug_frame   0x00000000       0x5c ./Core/Src/iocontroller.o
  .ARM.attributes
                 0x00000000       0x32 ./Core/Src/iocontroller.o
  .group         0x00000000        0xc ./Core/Src/main.o
@@ -7117,129 +7132,129 @@ Discarded input sections
  .debug_macro   0x00000000      0x293 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
  .debug_macro   0x00000000       0x90 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
  .debug_macro   0x00000000      0x5a0 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
- .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
  .text.arm_rms_f32
-                0x00000000       0xb0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .debug_info    0x00000000      0x1dc D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .debug_abbrev  0x00000000      0x119 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .debug_loc     0x00000000      0x2af D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+                0x00000000       0xb0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .debug_info    0x00000000      0x1dc D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .debug_abbrev  0x00000000      0x119 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .debug_loc     0x00000000      0x2af D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
  .debug_aranges
-                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .debug_ranges  0x00000000       0x38 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .debug_line    0x00000000      0x1a0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .debug_str     0x00000000      0x2ea D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .debug_frame   0x00000000       0x38 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .debug_ranges  0x00000000       0x38 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .debug_line    0x00000000      0x1a0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .debug_str     0x00000000      0x2ea D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .debug_frame   0x00000000       0x38 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
  .ARM.attributes
-                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
- .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rms_f32.o)
+ .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
  .text.arm_max_f32
-                0x00000000       0xcc D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .debug_info    0x00000000      0x164 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .debug_abbrev  0x00000000       0xb2 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .debug_loc     0x00000000      0x16f D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+                0x00000000       0xcc D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .debug_info    0x00000000      0x164 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .debug_abbrev  0x00000000       0xb2 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .debug_loc     0x00000000      0x16f D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
  .debug_aranges
-                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .debug_ranges  0x00000000       0x10 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .debug_line    0x00000000      0x16c D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .debug_str     0x00000000      0x24f D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .debug_frame   0x00000000       0x34 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .debug_ranges  0x00000000       0x10 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .debug_line    0x00000000      0x16c D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .debug_str     0x00000000      0x24f D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .debug_frame   0x00000000       0x34 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
  .ARM.attributes
-                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
- .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_max_f32.o)
+ .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
  .text.stage_rfft_f32
-                0x00000000       0xb8 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+                0x00000000       0xb8 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
  .text.merge_rfft_f32
-                0x00000000       0xac D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+                0x00000000       0xac D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
  .text.arm_rfft_fast_f32
-                0x00000000      0x188 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .debug_info    0x00000000      0x72e D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .debug_abbrev  0x00000000      0x17f D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .debug_loc     0x00000000     0x1112 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+                0x00000000      0x188 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .debug_info    0x00000000      0x72e D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .debug_abbrev  0x00000000      0x17f D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .debug_loc     0x00000000     0x1112 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
  .debug_aranges
-                0x00000000       0x30 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .debug_ranges  0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .debug_line    0x00000000      0x2cb D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .debug_str     0x00000000      0x2f4 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .debug_frame   0x00000000       0x7c D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+                0x00000000       0x30 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .debug_ranges  0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .debug_line    0x00000000      0x2cb D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .debug_str     0x00000000      0x2f4 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .debug_frame   0x00000000       0x7c D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
  .ARM.attributes
-                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
- .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_rfft_fast_f32.o)
+ .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
  .text.arm_cfft_radix8by2_f32
-                0x00000000      0x1a4 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+                0x00000000      0x1a4 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
  .text.arm_cfft_radix8by4_f32
-                0x00000000      0x4b0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+                0x00000000      0x4b0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
  .text.arm_cfft_f32
-                0x00000000       0xf0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .debug_info    0x00000000      0x6b9 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .debug_abbrev  0x00000000      0x18b D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .debug_loc     0x00000000     0x13a7 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+                0x00000000       0xf0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .debug_info    0x00000000      0x6b9 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .debug_abbrev  0x00000000      0x18b D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .debug_loc     0x00000000     0x13a7 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
  .debug_aranges
-                0x00000000       0x30 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .debug_ranges  0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .debug_line    0x00000000      0x791 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .debug_str     0x00000000      0x35f D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .debug_frame   0x00000000       0xe0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+                0x00000000       0x30 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .debug_ranges  0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .debug_line    0x00000000      0x791 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .debug_str     0x00000000      0x35f D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .debug_frame   0x00000000       0xe0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
  .ARM.attributes
-                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
- .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
- .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
- .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
- .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_f32.o)
+ .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
  .text.arm_abs_f32
-                0x00000000       0x6c D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .debug_info    0x00000000      0x14a D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .debug_abbrev  0x00000000       0x94 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .debug_loc     0x00000000      0x1b9 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+                0x00000000       0x6c D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .debug_info    0x00000000      0x14a D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .debug_abbrev  0x00000000       0x94 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .debug_loc     0x00000000      0x1b9 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
  .debug_aranges
-                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .debug_ranges  0x00000000       0x10 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .debug_line    0x00000000      0x15f D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .debug_str     0x00000000      0x225 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .debug_frame   0x00000000       0x30 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .debug_ranges  0x00000000       0x10 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .debug_line    0x00000000      0x15f D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .debug_str     0x00000000      0x225 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .debug_frame   0x00000000       0x30 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
  .ARM.attributes
-                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
- .text          0x00000000       0xc0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
- .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
- .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
- .debug_line    0x00000000       0x98 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
- .debug_info    0x00000000       0x85 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
- .debug_abbrev  0x00000000       0x14 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
+                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_abs_f32.o)
+ .text          0x00000000       0xc0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
+ .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
+ .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
+ .debug_line    0x00000000       0x98 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
+ .debug_info    0x00000000       0x85 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
+ .debug_abbrev  0x00000000       0x14 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
  .debug_aranges
-                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
+                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
  .ARM.attributes
-                0x00000000       0x25 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
- .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+                0x00000000       0x25 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_bitreversal2.o)
+ .text          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .data          0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .bss           0x00000000        0x0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
  .text.arm_radix8_butterfly_f32
-                0x00000000      0x5c0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .debug_info    0x00000000      0x419 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .debug_abbrev  0x00000000       0xa8 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .debug_loc     0x00000000      0x8f2 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+                0x00000000      0x5c0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .debug_info    0x00000000      0x419 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .debug_abbrev  0x00000000       0xa8 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .debug_loc     0x00000000      0x8f2 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
  .debug_aranges
-                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .debug_ranges  0x00000000       0x10 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .debug_line    0x00000000      0x6cf D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .debug_str     0x00000000      0x256 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
- .debug_frame   0x00000000       0x94 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+                0x00000000       0x20 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .debug_ranges  0x00000000       0x10 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .debug_line    0x00000000      0x6cf D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .debug_str     0x00000000      0x256 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .comment       0x00000000       0x71 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+ .debug_frame   0x00000000       0x94 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
  .ARM.attributes
-                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
+                0x00000000       0x39 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_cfft_radix8_f32.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-exit.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-exit.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-exit.o)
@@ -7625,7 +7640,7 @@ LOAD ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.o
 LOAD ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.o
 LOAD ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.o
 LOAD ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
-LOAD D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a
+LOAD D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a
 START GROUP
 LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a
 LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a
@@ -8181,7 +8196,7 @@ LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
                 0x08007d30       0x62 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
  *fill*         0x08007d92        0x2 
  .text.arm_conv_f32
-                0x08007d94      0x4e0 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+                0x08007d94      0x4e0 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
                 0x08007d94                arm_conv_f32
  .text.__cvt    0x08008274       0xa8 C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfprintf_float.o)
                 0x08008274                __cvt
@@ -8768,7 +8783,7 @@ LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .ARM.attributes
                 0x000004bf       0x32 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
  .ARM.attributes
-                0x000004f1       0x39 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+                0x000004f1       0x39 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
  .ARM.attributes
                 0x0000052a       0x32 C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfprintf_float.o)
  .ARM.attributes
@@ -8928,7 +8943,7 @@ LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .debug_info    0x000195e3     0x4b13 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.o
  .debug_info    0x0001e0f6      0xfbf ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.o
  .debug_info    0x0001f0b5     0x1a1e ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
- .debug_info    0x00020ad3      0x2b5 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .debug_info    0x00020ad3      0x2b5 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
 
 .debug_abbrev   0x00000000     0x37ea
  .debug_abbrev  0x00000000      0x27f ./Core/Src/Calculations.o
@@ -8955,7 +8970,7 @@ LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .debug_abbrev  0x00002e4f      0x33d ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.o
  .debug_abbrev  0x0000318c      0x2d2 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.o
  .debug_abbrev  0x0000345e      0x2b3 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
- .debug_abbrev  0x00003711       0xd9 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .debug_abbrev  0x00003711       0xd9 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
 
 .debug_aranges  0x00000000     0x1810
  .debug_aranges
@@ -9007,7 +9022,7 @@ LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .debug_aranges
                 0x00001650      0x1a0 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
  .debug_aranges
-                0x000017f0       0x20 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+                0x000017f0       0x20 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
 
 .debug_rnglists
                 0x00000000     0x1297
@@ -9142,58 +9157,58 @@ LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .debug_line    0x000186ba     0x3fcc ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.o
  .debug_line    0x0001c686      0xfdc ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.o
  .debug_line    0x0001d662     0x201f ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
- .debug_line    0x0001f681      0x38c D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .debug_line    0x0001f681      0x38c D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
 
-.debug_str      0x00000000   0x17180e
+.debug_str      0x00000000   0x171865
  .debug_str     0x00000000   0x1667b5 ./Core/Src/Calculations.o
                              0x166d83 (size before relaxing)
- .debug_str     0x001667b5      0x212 ./Core/Src/LPF.o
-                             0x1661ab (size before relaxing)
- .debug_str     0x001669c7     0x1cc2 ./Core/Src/main.o
-                             0x1688bc (size before relaxing)
- .debug_str     0x00168689      0xc42 ./Core/Src/stm32h7xx_hal_msp.o
-                             0x1682e3 (size before relaxing)
- .debug_str     0x001692cb       0xef ./Core/Src/stm32h7xx_it.o
-                             0x1662b5 (size before relaxing)
- .debug_str     0x001693ba     0x20a1 ./Core/Src/syscalls.o
+ .debug_str     0x001667b5      0x269 ./Core/Src/LPF.o
+                             0x1661ba (size before relaxing)
+ .debug_str     0x00166a1e     0x1cc2 ./Core/Src/main.o
+                             0x1688cb (size before relaxing)
+ .debug_str     0x001686e0      0xc42 ./Core/Src/stm32h7xx_hal_msp.o
+                             0x1682f2 (size before relaxing)
+ .debug_str     0x00169322       0xef ./Core/Src/stm32h7xx_it.o
+                             0x1662c4 (size before relaxing)
+ .debug_str     0x00169411     0x20a1 ./Core/Src/syscalls.o
                                0x990a (size before relaxing)
- .debug_str     0x0016b45b       0x6b ./Core/Src/sysmem.o
+ .debug_str     0x0016b4b2       0x6b ./Core/Src/sysmem.o
                                0x6122 (size before relaxing)
- .debug_str     0x0016b4c6      0x330 ./Core/Src/system_stm32h7xx.o
+ .debug_str     0x0016b51d      0x330 ./Core/Src/system_stm32h7xx.o
                              0x165f1a (size before relaxing)
- .debug_str     0x0016b7f6       0x44 ./Core/Startup/startup_stm32h743zitx.o
+ .debug_str     0x0016b84d       0x44 ./Core/Startup/startup_stm32h743zitx.o
                                  0x8c (size before relaxing)
- .debug_str     0x0016b83a      0x7f4 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.o
+ .debug_str     0x0016b891      0x7f4 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.o
                              0x166e30 (size before relaxing)
- .debug_str     0x0016c02e      0x364 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.o
+ .debug_str     0x0016c085      0x364 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.o
                              0x16686b (size before relaxing)
- .debug_str     0x0016c392     0x1036 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.o
+ .debug_str     0x0016c3e9     0x1036 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_eth.o
                              0x16779f (size before relaxing)
- .debug_str     0x0016d3c8       0xec ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.o
+ .debug_str     0x0016d41f       0xec ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.o
                              0x165ed1 (size before relaxing)
- .debug_str     0x0016d4b4      0x805 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pcd.o
+ .debug_str     0x0016d50b      0x805 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pcd.o
                              0x166685 (size before relaxing)
- .debug_str     0x0016dcb9      0x16f ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pcd_ex.o
+ .debug_str     0x0016dd10      0x16f ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pcd_ex.o
                              0x166023 (size before relaxing)
- .debug_str     0x0016de28      0x618 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.o
+ .debug_str     0x0016de7f      0x618 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.o
                              0x166392 (size before relaxing)
- .debug_str     0x0016e440      0x21a ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.o
+ .debug_str     0x0016e497      0x21a ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.o
                              0x1662b5 (size before relaxing)
- .debug_str     0x0016e65a      0x64b ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.o
+ .debug_str     0x0016e6b1      0x64b ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.o
                              0x166796 (size before relaxing)
- .debug_str     0x0016eca5      0x549 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.o
+ .debug_str     0x0016ecfc      0x549 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.o
                              0x1665d9 (size before relaxing)
- .debug_str     0x0016f1ee      0xddc ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.o
+ .debug_str     0x0016f245      0xddc ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim.o
                              0x167054 (size before relaxing)
- .debug_str     0x0016ffca      0x590 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.o
+ .debug_str     0x00170021      0x590 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_tim_ex.o
                              0x16697c (size before relaxing)
- .debug_str     0x0017055a      0x9fd ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.o
+ .debug_str     0x001705b1      0x9fd ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.o
                              0x166df6 (size before relaxing)
- .debug_str     0x00170f57      0x25a ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.o
+ .debug_str     0x00170fae      0x25a ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.o
                              0x1663b6 (size before relaxing)
- .debug_str     0x001711b1      0x4ab ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
+ .debug_str     0x00171208      0x4ab ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
                              0x16657f (size before relaxing)
- .debug_str     0x0017165c      0x1b2 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .debug_str     0x001716b3      0x1b2 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
                                 0x291 (size before relaxing)
 
 .comment        0x00000000       0xb3
@@ -9221,7 +9236,7 @@ LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .comment       0x00000043       0x44 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.o
  .comment       0x00000043       0x44 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.o
  .comment       0x00000043       0x44 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
- .comment       0x00000043       0x70 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .comment       0x00000043       0x70 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
                                  0x71 (size before relaxing)
 
 .debug_frame    0x00000000     0x7b44
@@ -9247,7 +9262,7 @@ LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .debug_frame   0x00005178      0xa94 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.o
  .debug_frame   0x00005c0c      0x2c0 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.o
  .debug_frame   0x00005ecc      0x7c0 ./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o
- .debug_frame   0x0000668c       0x40 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .debug_frame   0x0000668c       0x40 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
  .debug_frame   0x000066cc       0x9c C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfprintf_float.o)
  .debug_frame   0x00006768       0x60 C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
  .debug_frame   0x000067c8       0x40 C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.0.200.202406191623/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-nano-vfscanf_float.o)
@@ -9313,7 +9328,7 @@ LOAD C:/ST/STM32CubeIDE_1.15.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
                 0x00000000       0x70 ./Core/Startup/startup_stm32h743zitx.o
 
 .debug_loc      0x00000000      0xe73
- .debug_loc     0x00000000      0xe73 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .debug_loc     0x00000000      0xe73 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
 
 .debug_ranges   0x00000000       0x10
- .debug_ranges  0x00000000       0x10 D:\Projects\Power_Analyzer_ProDucT\Firmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
+ .debug_ranges  0x00000000       0x10 D:\Projects\Power_Analyzer_ProDucT\git\PowerAnalyzerFirmware\FIrmware_Mileston1_v1\lib\libarm_cortexM7lfsp_math.a(arm_conv_f32.o)
