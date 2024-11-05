@@ -12,6 +12,8 @@
 
 
 uint8_t Transfer_CMD ;
+
+
 void GPIO_logic_voltageswitch(typdef_GPV_logic *GP_logic_v){
 
 	//Logic for turning switchs on/off for voltage Side

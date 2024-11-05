@@ -24,6 +24,9 @@ C_DEPS :=
 SUBDIRS := \
 Core/Src \
 Core/Startup \
+Drivers/ADCdrivers \
+Drivers/Low\ pass\ filter \
 Drivers/STM32H7xx_HAL_Driver/Src \
+Drivers/calculations \
 Drivers/iocontrol \
 

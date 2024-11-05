@@ -38,7 +38,7 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pcd.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_usb.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pcd_ex.h \
- ../Core/Inc/arm_math.h ../Core/Inc/LPF.h \
+ ../Core/Inc/arm_math.h ../Core/Src/../../Drivers/Low\ pass\ filter/LPF.h \
  D:/Projects/Power_Analyzer_ProDucT/git/PowerAnalyzerFirmware/FIrmware_Mileston1_v1/Drivers/iocontrol/iocontroller.h
 ../Core/Inc/main.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h:
@@ -81,5 +81,5 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_usb.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pcd_ex.h:
 ../Core/Inc/arm_math.h:
-../Core/Inc/LPF.h:
+../Core/Src/../../Drivers/Low\ pass\ filter/LPF.h:
 D:/Projects/Power_Analyzer_ProDucT/git/PowerAnalyzerFirmware/FIrmware_Mileston1_v1/Drivers/iocontrol/iocontroller.h:
