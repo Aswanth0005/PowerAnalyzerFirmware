@@ -22,10 +22,13 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+
 #define ARM_MATH_CM7
 #include "arm_math.h"
 #include "stdio.h"
 #include "LPF.h"
+#include "iocontroller.h"
+
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -74,6 +77,8 @@ UART_HandleTypeDef huart3;
 PCD_HandleTypeDef hpcd_USB_OTG_FS;
 
 /* USER CODE BEGIN PV */
+typdef_GPI_logic GP_logic_i;
+typdef_GPV_logic GP_logic_v;
 extern float32_t LPF_Kernel[LPF_Kernel_Size];
 extern float32_t signal1[Signalsize];
 float32_t filtersignal[(LPF_Kernel_Size+Signalsize)-1];
@@ -138,6 +143,7 @@ int main(void)
   arm_conv_f32(signal1, Signalsize, LPF_Kernel, LPF_Kernel_Size, filtersignal);
   printsignal();
   printfiltersignal();
+  Init_GPIOs_OUTPUT();
 
 
   /* USER CODE END 2 */
@@ -149,6 +155,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+	  updateSwitch();
 
   }
   /* USER CODE END 3 */
@@ -467,7 +474,7 @@ static void MX_GPIO_Init(void)
   HAL_GPIO_WritePin(GPIOB, LD1_Pin|LD3_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(swvcs_GPIO_Port, swvcs_Pin, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOG, swvcs_Pin|swics_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(USB_OTG_FS_PWR_EN_GPIO_Port, USB_OTG_FS_PWR_EN_Pin, GPIO_PIN_RESET);
@@ -495,12 +502,12 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(GPIOB, &GPIO_InitStruct);
 
-  /*Configure GPIO pin : swvcs_Pin */
-  GPIO_InitStruct.Pin = swvcs_Pin;
+  /*Configure GPIO pins : swvcs_Pin swics_Pin */
+  GPIO_InitStruct.Pin = swvcs_Pin|swics_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
-  HAL_GPIO_Init(swvcs_GPIO_Port, &GPIO_InitStruct);
+  HAL_GPIO_Init(GPIOG, &GPIO_InitStruct);
 
   /*Configure GPIO pin : USB_OTG_FS_PWR_EN_Pin */
   GPIO_InitStruct.Pin = USB_OTG_FS_PWR_EN_Pin;

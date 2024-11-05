@@ -1,2 +1,0 @@
-../Core/Src/iocontroller.c:15:6:GPIO_logic	16	static
-../Core/Src/iocontroller.c:122:6:MCP23S17_WriteRegister	24	static

@@ -1,7 +1,6 @@
 "./Core/Src/ADC_Driver_SPI.o"
 "./Core/Src/Calculations.o"
 "./Core/Src/LPF.o"
-"./Core/Src/iocontroller.o"
 "./Core/Src/main.o"
 "./Core/Src/stm32h7xx_hal_msp.o"
 "./Core/Src/stm32h7xx_it.o"
@@ -36,3 +35,4 @@
 "./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.o"
 "./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.o"
 "./Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_ll_usb.o"
+"./Drivers/iocontrol/iocontroller.o"
